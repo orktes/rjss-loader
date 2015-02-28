@@ -1,0 +1,26 @@
+{
+  "name": "rjss-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for the RJSS style syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orktes/rjss-loader.git"
+  },
+  "keywords": [
+    "rjss",
+    "webpack"
+  ],
+  "author": "Jaakko Lukkari <jaakko.lukkari@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orktes/rjss-loader/issues"
+  },
+  "dependencies": {
+    "rjss": "~0.0.7",
+    "loader-utils": "~0.2.6"
+  }
+}
