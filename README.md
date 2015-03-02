@@ -3,6 +3,12 @@ Webpack loader for the RJSS style syntax
 
 ## Usage:
 
+```sh
+$ npm install rjss-loader
+```
+
 ```js
-{..., loader: 'rjss-loader'}
+...
+{test: /\.rjss$/, loader: 'rjss-loader'}
+...
 ```
