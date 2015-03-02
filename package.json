@@ -20,7 +20,7 @@
     "url": "https://github.com/orktes/rjss-loader/issues"
   },
   "dependencies": {
-    "rjss": "~0.0.7",
+    "rjss": "~0.0.8",
     "loader-utils": "~0.2.6"
   }
 }
