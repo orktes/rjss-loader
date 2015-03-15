@@ -1,6 +1,6 @@
 {
   "name": "rjss-loader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Webpack loader for the RJSS style syntax",
   "main": "index.js",
   "scripts": {
