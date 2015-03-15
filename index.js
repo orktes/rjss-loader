@@ -13,7 +13,7 @@ module.exports = function(source) {
   var sourceFilename = loaderUtils.getRemainingRequest(this);
   var current = loaderUtils.getCurrentRequest(this);
 
-  var transform = rjss.parseContent(source, {
+  var transform = rjss.parseContentSync(source, {
     path: this.resource
   });
 
